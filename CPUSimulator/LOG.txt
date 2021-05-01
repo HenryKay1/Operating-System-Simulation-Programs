@@ -1,0 +1,90 @@
+Starting Simulation
+At 0, job 1 arrives the system
+At 0, job 1 arrives the CPU
+At 130, job 2 arrives the system
+At 222, job 1 exits the CPU
+At 222, job 1 arrives Network
+At 319, job 3 arrives the system
+At 319, job 3 arrives the CPU
+At 355, job 1 exit Network
+At 488, job 4 arrives the system
+At 523, job 3 exits the CPU
+At 523, job 3 arrives Network
+At 617, job 5 arrives the system
+At 617, job 5 arrives the CPU
+At 674, job 3 exit Network
+At 779, job 6 arrives the system
+At 869, job 5 exits the CPU
+At 869, job 5 arrives Network
+At 945, job 7 arrives the system
+At 945, job 7 arrives the CPU
+At 1075, job 5 exit Network
+At 1139, job 8 arrives the system
+At 1238, job 7 exits the CPU
+At 1238, job 7 arrives disk 1
+At 1301, job 9 arrives the system
+At 1301, job 9 arrives the CPU
+At 1375, job 7 exits disk 1
+At 1480, job 10 arrives the system
+At 1558, job 9 exits the CPU
+At 1558, job 9 arrives disk 2
+At 1599, job 11 arrives the system
+At 1599, job 11 arrives the CPU
+At 1773, job 9 exits disk 2
+At 1794, job 12 arrives the system
+At 1888, job 11 exits the CPU
+At 1888, job 11 arrives Network
+At 1897, job 13 arrives the system
+At 1897, job 13 arrives the CPU
+At 2011, job 14 arrives the system
+At 2078, job 11 exit Network
+At 2133, job 15 arrives the system
+At 2190, job 13 exits the CPU
+At 2190, job 13 arrives disk 1
+At 2276, job 16 arrives the system
+At 2276, job 16 arrives the CPU
+At 2300, job 13 exits disk 1
+At 2455, job 17 arrives the system
+At 2573, job 16 exits the CPU
+At 2573, job 16 arrives Network
+At 2633, job 18 arrives the system
+At 2633, job 18 arrives the CPU
+At 2754, job 16 exit Network
+At 2768, job 19 arrives the system
+At 2845, job 18 exits the CPU
+At 2845, job 18 arrives Network
+At 2913, job 20 arrives the system
+At 2913, job 20 arrives the CPU
+At 3014, job 18 exit Network
+At 3073, job 21 arrives the system
+At 3124, job 20 exits the CPU
+At 3124, job 20 arrives Network
+At 3256, job 22 arrives the system
+At 3256, job 22 arrives the CPU
+At 3318, job 20 exit Network
+At 3451, job 23 arrives the system
+At 3513, job 22 exits the CPU
+At 3513, job 22 arrives Network
+At 3618, job 24 arrives the system
+At 3618, job 24 arrives the CPU
+At 3701, job 22 exit Network
+At 3775, job 25 arrives the system
+At 3858, job 24 exits the CPU
+At 3858, job 24 arrives Network
+At 3949, job 26 arrives the system
+At 3949, job 26 arrives the CPU
+At 4079, job 24 exit Network
+At 4127, job 27 arrives the system
+At 4184, job 26 exits the CPU
+At 4184, job 26 terminates
+At 4242, job 28 arrives the system
+At 4361, job 29 arrives the system
+At 4377, job 30 arrives the system
+At 4465, job 31 arrives the system
+At 4555, job 32 arrives the system
+At 4579, job 33 arrives the system
+At 4704, job 34 arrives the system
+At 4737, job 35 arrives the system
+At 4849, job 37 arrives the system
+At 4873, job 36 arrives the system
+Simulation Ended

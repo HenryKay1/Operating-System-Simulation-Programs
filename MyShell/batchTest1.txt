@@ -1,0 +1,8 @@
+ls -a
+pwd
+ls | wc
+env
+ls new1
+pvd
+ls
+pwd
