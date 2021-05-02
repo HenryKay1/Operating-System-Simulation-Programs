@@ -1,0 +1,3 @@
+This program involves sending and receiving signals. However, the actions is carried via 2 sub programs. a multi-thread program , and a multi-process program. 
+Mutex locks are implemented as well to avoid make sure the threads and processes are in sync. So the whole point is usinf multi-threading and multi-processing under the same 
+circumstances and analyzing our results. Refer to doc files for analysis
